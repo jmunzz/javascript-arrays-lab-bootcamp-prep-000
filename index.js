@@ -31,5 +31,5 @@ function prependKitten(array){
 }
 
 function removeLastKitten(array,element){
-  return [array,...]
+  return [element]
 }
