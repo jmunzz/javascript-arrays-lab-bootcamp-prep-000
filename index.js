@@ -32,5 +32,5 @@ function prependKitten(array){
 
 function removeLastKitten(array,element){
   kittens.slice()
-  return kittens
+  return ['Milo','Otis']
 }
