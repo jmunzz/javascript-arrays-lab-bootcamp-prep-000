@@ -24,3 +24,7 @@ function  appendKitten(array){
   kittens.slice()
   return ['Milo','Otis','Garfield','Broom']
 }
+
+function prependKitten(array){
+  kittens.slice()
+}
