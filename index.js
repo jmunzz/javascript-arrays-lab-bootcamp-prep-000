@@ -27,4 +27,5 @@ function  appendKitten(array){
 
 function prependKitten(array){
   kittens.slice()
+  return []
 }
