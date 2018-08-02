@@ -21,5 +21,6 @@ function destructivelyRemoveFirstKitten(array){
 }
 
 function  appendKitten(array){
-  
+  kittens.slice()
+  return 
 }
