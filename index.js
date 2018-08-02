@@ -1,5 +1,6 @@
 var kittens = ["Milo","Otis","Garfield"]
 
-function destructivelyAppendKitten(name){
-  
+function destructivelyAppendKitten(Ralph){
+  kittens.pop()
+  return array
 }
