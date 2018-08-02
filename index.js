@@ -30,4 +30,6 @@ function prependKitten(array){
   return ["Arnold","Milo","Otis","Garfield"]
 }
 
-function removeLastKitten()
+function removeLastKitten(array,element){
+  return [array,...]
+}
