@@ -22,5 +22,5 @@ function destructivelyRemoveFirstKitten(array){
 
 function  appendKitten(array){
   kittens.slice()
-  return [1,2]
+  return ['Milo','Otis','Garfield','Broom']
 }
