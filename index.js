@@ -10,4 +10,6 @@ function destructivelyPrependKitten(array){
   return array
 }
 
-function 
+function destructivelyRemoveLastKitten(array){
+  kittens.
+}
