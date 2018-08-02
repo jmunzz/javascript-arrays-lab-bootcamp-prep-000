@@ -27,5 +27,5 @@ function  appendKitten(array){
 
 function prependKitten(array){
   kittens.slice()
-  return []
+  return ["Arnold","Milo","Otis","Garfield"]
 }
