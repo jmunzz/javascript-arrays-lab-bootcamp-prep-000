@@ -1,1 +1,0 @@
-var kittens = [milo, garfield, ]
