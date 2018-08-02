@@ -5,4 +5,6 @@ function destructivelyAppendKitten(array){
   return array
 }
 
-function 
+function destructivelyPrependKitten(array){
+  kittens.
+}
