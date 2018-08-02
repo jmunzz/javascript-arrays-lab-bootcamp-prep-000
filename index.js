@@ -34,3 +34,5 @@ function removeLastKitten(array,element){
   kittens.slice()
   return ['Milo','Otis']
 }
+
+function 
